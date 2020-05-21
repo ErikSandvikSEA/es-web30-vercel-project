@@ -14,7 +14,7 @@ function App() {
   }, []);
   return (
     <main>
-      <h1>Erik Sandvik - Vercel App</h1>
+      <h1>Erik Sandvik - Vercel App - Second Branch</h1>
       <h2>
         Deployed with{' '}
         <a
